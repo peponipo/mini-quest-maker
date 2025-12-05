@@ -1,6 +1,6 @@
 # Mini Quest Maker
 
-#### Video Demo: [https://youtu.be/sTZfbh0Cgj0]
+#### Video Demo: [https://youtu.be/czGbVLHmpyw]
 
 #### Description:
 
