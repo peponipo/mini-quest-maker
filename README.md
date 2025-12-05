@@ -61,34 +61,38 @@ Everything runs SAFELY in your browser with no server required, keeping your wor
 
 This project taught me practical state management at scale, the importance of immutability in React, browser File APIs for import/export, and user-centered design. 
 
-Building tools for non-programmers requires thinking from their perspective. 
+Building tools for non-programmers requires thinking from their PERSPECTIVE. 
 
-Most importantly, I learned that solving real problems often means adding features you didn't originally plan (like HTML import) based on actual use cases. 
+Most importantly, I learned that solving real problems often means adding features you didn't originally plan (like HTML import) based on actual use cases!
 
-The project took approximately more than 3 weeks and draws on CS50's lessons: state management mirrors database concepts, the scenario graph applies algorithms thinking, and immutability principles connect to C's memory concepts!
+ The project took approximately more than 4 weeks and draws on CS50's lessons: state management mirrors database concepts, the scenario graph applies algorithms thinking, and immutability principles connect to C's memory concepts.
 
 ### Balancing Creativity and Code
 
-Building Mini Quest Maker taught me that programming isn't just about algorithms, it's about empowering creativity. 
+Building Mini Quest Maker taught me that programming ISN'T JUST about algorithms, it's about EMPOWERING CREATIVITY. 
 
 Watching someone who's never coded before light up when they create their first branching story reminded me why I started programming in the first place. 
 
-The technical challenges were real: managing 13 interconnected states, implementing history branching, generating standalone HTML files. 
+The technical challenges were real: managing 13 interconnected states, implementing history branching, generating standalone HTML files. But the creative challenges were EQUALLY IMPORTANT. 
 
-But the creative challenges were equally important. How do I make renaming scenarios intuitive? What colors create a "retro game" feeling? How do I explain achievements to a writer, not a programmer?
+How do I make renaming scenarios intuitive? What colors create a "retro game" feeling? How do I explain achievements to a writer, NOT a programmer?
 
 CS50's lessons proved foundational in unexpected ways. C's memory management taught me React's immutability. 
 
-Both require understanding that data lives somewhere and careless modification breaks things. 
+Both require understanding that data lives somewhere and careless modification BREAKS THINGS. 
 
-SQL's foreign keys mirror my choice system. Rename a scenario, update all references automatically. The graph algorithms from Week 5 became my scenario connections, each choice an edge between story nodes.
+SQL's foreign keys mirror my choice system. Rename a scenario, update ALL references automatically. The graph algorithms from Week 5 became my scenario connections, each choice an edge between story nodes.
 
-The iterative process surprised me most. I didn't plan the HTML import feature at first. 
+The iterative process surprised me most. 
 
-I put myself in the users' shoes and thought "What if I lose my save file?" So I built it. 
+I didn't plan the HTML import feature at first. I put myself in the users' shoes and thought "What if I lose my save file?" So I built it. 
 
-Real software evolves from real needs, not perfect upfront designs. This blend of technical problem-solving and creative empowerment made Mini Quest Maker more than code. It became a tool that unlocks stories for people who thought game-making wasn't for them. Every design choice, from the bouncing emoji icon to the pulsing "ENDING REACHED" warning, serves storytelling first and technical elegance second. 
+Real software EVOLVES from real needs, not perfect upfront designs. 
 
-The purple-blue gradient background wasn't random. It creates that nostalgic 
+This blend of technical problem-solving and creative empowerment made Mini Quest Maker MORE THAN CODE. 
 
-90s game aesthetic while being easy on the eyes for long writing sessions.
+It became a tool that unlocks stories for people who thought game-making wasn't for them. 
+
+Every design choice, from the bouncing emoji icon to the pulsing "ENDING REACHED" warning, serves STORYTELLING FIRST and technical elegance second. The purple-blue gradient background wasn't random. 
+
+It creates that nostalgic, CLASSIC 90s game aesthetic while being easy on the eyes for long writing sessions.
